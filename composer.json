@@ -1,0 +1,5 @@
+{
+    "require": {
+        "lepresk/momo-api": "^1.0"
+    }
+}
